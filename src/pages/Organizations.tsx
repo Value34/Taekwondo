@@ -92,7 +92,7 @@ const Organizations = () => {
 
             <div className="p-5 bg-accent/5 border-l-4 border-accent rounded-r-lg">
               <h3 className="text-xl font-bold mb-3 flex items-center gap-2">
-                🌍 ATU - African Taekwondo Union
+                🌍 AFTU - African Taekwondo Union
               </h3>
               <p className="text-lg leading-relaxed mb-3">
                 <strong>Región:</strong> África
@@ -101,7 +101,7 @@ const Organizations = () => {
                 <strong>Fundación:</strong> 1980
               </p>
               <p className="text-lg leading-relaxed">
-                La ATU ha experimentado un crecimiento significativo en las últimas décadas, con países como Egipto, Nigeria, Costa de Marfil y Níger produciendo atletas competitivos a nivel mundial. La unión trabaja activamente en el desarrollo de infraestructura y programas de formación en todo el continente.
+                La AFTU ha experimentado un crecimiento significativo en las últimas décadas, con países como Egipto, Nigeria, Costa de Marfil y Níger produciendo atletas competitivos a nivel mundial. La unión trabaja activamente en el desarrollo de infraestructura y programas de formación en todo el continente.
               </p>
             </div>
 
