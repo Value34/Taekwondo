@@ -219,7 +219,7 @@ const Organizations = () => {
 
         <section className="mt-8">
           <h2 className="text-primary-light mb-4">Impacto Global</h2>
-          <div className="p-6 bg-gradient-korean text-white rounded-xl shadow-elegant">
+          <div className="p-6 bg-gradient-korean text-black rounded-xl shadow-elegant">
             <p className="text-lg leading-relaxed">
               A través de su estructura organizacional, la World Taekwondo ha logrado:
             </p>
