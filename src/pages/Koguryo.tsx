@@ -106,27 +106,27 @@ const Koguryo = () => {
 
         <section>
           <h2 className="text-primary-light mb-4">El Legado de Koguryo en el Taekwondo</h2>
-          
-          <div className="p-6 bg-gradient-korean text-white rounded-xl shadow-elegant">
+
+          <div className="p-6 bg-gradient-korean text-black rounded-xl shadow-elegant">
             <h3 className="text-2xl font-bold mb-4">Conexiones Directas:</h3>
-            
+
             <ul className="space-y-3 text-lg">
               <li>
                 <strong>📜 Evidencia Histórica:</strong> Los murales de Koguryo son citados en la literatura oficial del Taekwondo como evidencia de que las artes marciales de patada han sido parte de la cultura coreana durante más de 1,500 años.
               </li>
-              
+
               <li>
                 <strong>🥋 Técnicas Ancestrales:</strong> Muchas posturas y técnicas básicas del Taekwondo moderno muestran similitudes notables con las representaciones en los murales de Koguryo.
               </li>
-              
+
               <li>
                 <strong>🏛️ Identidad Nacional:</strong> La conexión con Koguryo ayuda a establecer el Taekwondo como un arte marcial genuinamente coreano, diferenciándolo de influencias japonesas o chinas.
               </li>
-              
+
               <li>
                 <strong>⚔️ Espíritu Guerrero:</strong> El espíritu indomable de los guerreros de Koguryo es invocado como inspiración para el quinto principio del Taekwondo.
               </li>
-              
+
               <li>
                 <strong>🎖️ Orgullo Cultural:</strong> La referencia a Koguryo conecta a los practicantes modernos con una herencia guerrera noble y antigua, infundiendo orgullo y propósito a la práctica.
               </li>

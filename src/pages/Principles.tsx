@@ -219,7 +219,7 @@ const Principles = () => {
 
         <section className="mt-10">
           <h2 className="text-primary-light mb-4">La Integración de los Principios</h2>
-          <div className="p-6 bg-gradient-korean text-white rounded-xl shadow-elegant">
+          <div className="p-6 bg-gradient-korean text-black rounded-xl shadow-elegant">
             <p className="text-lg leading-relaxed mb-4">
               Los cinco principios fundamentales, junto con Ciencia, Amor y Fe, forman un sistema completo de desarrollo humano. No son conceptos separados, sino que se entrelazan y se refuerzan mutuamente:
             </p>

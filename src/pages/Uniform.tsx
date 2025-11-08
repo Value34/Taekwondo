@@ -226,7 +226,7 @@ const Uniform = () => {
 
         <section className="mt-8">
           <h2 className="text-primary-light mb-4">Reflexión Final</h2>
-          <div className="p-6 bg-gradient-korean text-white rounded-xl shadow-elegant">
+          <div className="p-6 bg-gradient-korean text-black rounded-xl shadow-elegant">
             <p className="text-lg leading-relaxed">
               El dobok es más que una prenda deportiva; es un símbolo de identidad, compromiso y respeto. Cuando un practicante se viste con su dobok, está haciendo una declaración de que deja atrás su identidad social y se convierte en un estudiante de Taekwondo. El dobok iguala a todos en el dojang - no importa quién seas fuera, dentro del dojang todos somos estudiantes del arte marcial. Cuidar tu dobok es cuidar tu compromiso con el Taekwondo y todo lo que representa.
             </p>

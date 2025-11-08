@@ -106,8 +106,8 @@ const KoreanFlag = () => {
           <p className="text-lg leading-relaxed">
             Los elementos de la bandera coreana están profundamente integrados en la filosofía del Taekwondo:
           </p>
-          
-          <div className="mt-4 p-5 bg-gradient-korean text-white rounded-lg space-y-3">
+
+          <div className="mt-4 p-5 bg-gradient-korean text-black rounded-lg space-y-3">
             <p className="text-lg"><strong>🌟 Equilibrio (Taegeuk):</strong> Balance entre ataque y defensa, fuerza y técnica.</p>
             <p className="text-lg"><strong>☰ Cielo (Justicia):</strong> Usar el Taekwondo solo para causas justas.</p>
             <p className="text-lg"><strong>☵ Agua (Sabiduría):</strong> Aprender constantemente y adaptarse a cada situación.</p>

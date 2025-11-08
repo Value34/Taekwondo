@@ -138,7 +138,7 @@ const PoomsaeVsTaeguk = () => {
 
         <section>
           <h2 className="text-primary-light mb-4">Resumen</h2>
-          <div className="p-5 bg-gradient-korean text-white rounded-lg">
+          <div className="p-5 bg-gradient-korean text-black rounded-lg">
             <p className="text-lg leading-relaxed font-semibold">
               ✓ <strong>Poomsae</strong> = Todas las formas en Taekwondo
             </p>
